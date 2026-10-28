@@ -219,6 +219,7 @@ New to Arc? Start here to learn about the platform, set up your environment, and
 ### Wallets
 - [Crossmint](https://www.crossmint.com) - Platform for integrating wallets, stablecoins, and payment rails.
 - [Fireblocks](https://www.fireblocks.com) - Enterprise platform for securely storing, transferring, and issuing digital assets.
+- [Gem Wallet](https://gemwallet.com) - Open-source, self-custodial mobile wallet for iOS and Android with native Arc support.
 - [MetaMask](https://metamask.io) - Self-custodial wallet and gateway to decentralized applications.
 - [Privy](https://www.privy.io) - Authentication and embedded wallet infrastructure for Web3 applications.
 - [Rainbow](https://rainbow.me) - Open-source, self-custodial Ethereum wallet for storing crypto assets and NFTs.
